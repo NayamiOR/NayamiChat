@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NayamiChat", "NayamiChat\NayamiChat.csproj", "{859D7A6A-BA74-4E98-829A-61B49EFD101E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{FB5B271B-EFB8-4BF1-82C5-8BC0BA6EDFEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{859D7A6A-BA74-4E98-829A-61B49EFD101E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859D7A6A-BA74-4E98-829A-61B49EFD101E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859D7A6A-BA74-4E98-829A-61B49EFD101E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859D7A6A-BA74-4E98-829A-61B49EFD101E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5B271B-EFB8-4BF1-82C5-8BC0BA6EDFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5B271B-EFB8-4BF1-82C5-8BC0BA6EDFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5B271B-EFB8-4BF1-82C5-8BC0BA6EDFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5B271B-EFB8-4BF1-82C5-8BC0BA6EDFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
